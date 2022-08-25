@@ -1,0 +1,3 @@
+[submodule "ScripstsProject/Assets/Tools/ScriptLibrary"]
+	path = ScripstsProject/Assets/Tools/ScriptLibrary
+	url = https://github.com/viceboy5/ScriptLibrary
